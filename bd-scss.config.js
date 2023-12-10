@@ -5,6 +5,6 @@ export default {
 		author: "winterClover",
 		version: "dev",
 		description: "WIP",
-		source: "https://github.com/winterClover/Discord Messenger"
+		source: "https://github.com/winterClover/vista-discord-theme"
 	}
 }
