@@ -1,2 +1,18 @@
 // This will be used for chat section.
 // Examples being: Messages, chatbox, typing bar, new/old message bars, ect...
+#app-mount {
+    .iconWrapper_af9215,.divider_c09b64 {
+        display: none;
+    }
+
+    .titleWrapper__482dc {
+        ::before {
+            content: "#";
+            font-family: var(--font-display);
+        }
+    }
+    
+    .markup_a7e664{
+        
+    }
+}
